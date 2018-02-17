@@ -1,0 +1,5 @@
+python-wordpress-xmlrpc==2.3
+requests==2.13.0
+rsa==3.4.2
+PIL==1.1.6
+sqlalchemy==1.1.9
